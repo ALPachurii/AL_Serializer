@@ -1,0 +1,3 @@
+[submodule "AzurLane_ClientSource"]
+	path = AzurLane_ClientSource
+	url = git://github.com/Binary102/AzurLane_ClientSource/

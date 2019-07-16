@@ -7,3 +7,10 @@ Simple serializer that converts Lua config files into universal json files which
 ## dependencies
 * Lua cjson
 * jq
+
+## usage
+```
+$ ./dumpcfg.sh
+```
+This will convert (almost) all config files to json files and dump them into `./Data_Dump`
+
